@@ -33,7 +33,6 @@ The datasets used in this project include:
 - `test_sent.txt`: Test sentences dataset.
 - `test_label.txt`: Test labels dataset.
 - `medical_ner_crf.ipynb`: Jupyter Notebook containing the complete code and steps for the project.
-- `requirements.txt`: List of required Python libraries.
 - `README.md`: Project description and instructions.
 
 ## Results
